@@ -1,0 +1,18 @@
+{
+  "supportbundle.screen.title": "SupportBundle",
+  "supportbundle.button.pause_menu": "Support Bundle",
+  "supportbundle.button.create_report": "Create Report",
+  "supportbundle.button.open_folder": "Open Reports Folder",
+  "supportbundle.button.copy_message": "Copy Discord Message",
+  "supportbundle.button.support": "Support",
+  "supportbundle.button.issues": "Issues",
+  "supportbundle.button.discord": "Discord",
+  "supportbundle.status.ready": "Ready.",
+  "supportbundle.status.creating": "Creating report...",
+  "supportbundle.status.report_created": "Report created: %s",
+  "supportbundle.status.report_failed": "Report failed: %s",
+  "supportbundle.status.folder_opened": "Reports folder opened.",
+  "supportbundle.status.message_copied": "Message copied.",
+  "key.categories.supportbundle": "SupportBundle",
+  "key.supportbundle.open": "Open SupportBundle"
+}
